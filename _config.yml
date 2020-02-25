@@ -1,0 +1,11 @@
+# basic options
+title: Leyi Lei
+author: Leyi Lei
+email: your-email@domain.com
+description: A wonderful site
+twitter_username: jekyllrb
+github_username:  leyilei
+
+# Build settings
+markdown: kramdown
+theme: minima
